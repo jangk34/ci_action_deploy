@@ -1,4 +1,4 @@
 image:
   repository: 766496852787.dkr.ecr.us-east-1.amazonaws.com/simple-docker-service-0e39a1a7e9df
-  tag: latest
+  tag: ci-action-1749794710
 
